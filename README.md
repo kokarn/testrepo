@@ -1,8 +1,4 @@
 testrepo
 ========
 
-Just a test
-
-And another test
-
-a third test
+Commit 1
